@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resource
+	 name = "jdbc/hw2_cui_jie_fall_2017"
+	 type = "javax.sql.DataSource"
+	 driverClassName = "com.mysql.jdbc.Driver"
+	 url = "jdbc:mysql://localhost/hw2_cui_jie_fall_2017"
+	 username = "root"
+	 password = ""
+	 auth = "Container"
+	 maxActive = "50"
+	 maxIdle = "30"
+	 maxWait = "10000"/>
+</Context>
